@@ -2,7 +2,7 @@
     <div id="align">
         <b-jumbotron id="fundo">
             <h1 class="text-uppercase">to-do list</h1>
-            <p>made by <a href="https://elroydev.tech">elroydevops</a></p>
+            <p>made by <a target="_blank" href="https://thenghia04.wordpress.com/">thenghia_rr</a></p>
         </b-jumbotron>
     </div>
 </template>
